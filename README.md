@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yohanncanu
+- 👀 I’m interested in devops, docker, ci/cd
+- 📫 How to reach me https://www.linkedin.com/in/yohanncanu
